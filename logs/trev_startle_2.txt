@@ -1,0 +1,14 @@
+2020-05-10 13:51:38.958806, Logger Initialized, 
+2020-05-10 13:51:39.019643, Pushing trigger: 1 to stream. (Instructions_Displayed), 
+2020-05-10 13:51:41.436186, Pushing trigger: 2 to stream. (Rest_Start), 
+2020-05-10 13:51:51.440178, Pushing trigger: 3 to stream. (Rest_End), 
+2020-05-10 13:52:01.622975, Pushing trigger: 14 to stream. (Startle_glass), 
+2020-05-10 13:52:10.630918, Pushing trigger: 15 to stream. (Startle_event), 
+2020-05-10 13:52:37.636980, Pushing trigger: 15 to stream. (Startle_event), 
+2020-05-10 13:53:08.630227, Pushing trigger: 15 to stream. (Startle_event), 
+2020-05-10 13:53:46.646405, Pushing trigger: 15 to stream. (Startle_event), 
+2020-05-10 13:54:01.623104, Pushing trigger: 10 to stream. (Task_End), 
+2020-05-10 13:54:01.636070, Pushing trigger: 2 to stream. (Rest_Start), 
+2020-05-10 13:54:11.642555, Pushing trigger: 3 to stream. (Rest_End), 
+2.9600 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+2.9697 	WARNING 	Monitor specification not found. Creating a temporary one...

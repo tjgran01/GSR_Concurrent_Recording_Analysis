@@ -1,5 +1,0 @@
-2020-05-10 12:46:51.281237, Logger Initialized, 
-2020-05-10 12:46:51.343072, Pushing trigger: 1 to stream. (Instructions_Displayed), 
-2020-05-10 12:46:56.000663, Pushing trigger: 2 to stream. (Rest_Start), 
-2.9431 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
-2.9529 	WARNING 	Monitor specification not found. Creating a temporary one...
